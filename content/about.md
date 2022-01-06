@@ -41,4 +41,3 @@ Saya adalah seorang `Designer Grafis`, `Front-End Web Developer`, `Penulis` & `V
 Saya juga mempelajari dunia website lebih dari 5 tahun, dan 4 tahun mengembangkan diri untuk menjadi penulis. Dan saya sendiri memiliki website e-commerce [Poronesia.com](https://poronesia.com) yang menjual game-game original dan produk digital yang sudah terpercaya sejak tahun 2018 saya memulainya.
 
 Itu adalah sekilas tentang pekerjaan saya. Semoga perkenalan singkat dan satu arah ini bisa mewakili profile saya. Jika Anda ingin menghubungi saya melalui menu [Contact](/contact).
-asd
