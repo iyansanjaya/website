@@ -1,6 +1,6 @@
 baseURL: "https://iyansanjaya.com/"
 title: Iyan Sanjaya
-paginate: 4
+paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
