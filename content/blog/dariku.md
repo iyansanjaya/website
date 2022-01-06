@@ -38,4 +38,3 @@ Jangan biarkan siapa pun mengatakan bahwa kamu tidak cukup. Kamu berharga bagi d
 Kamu mungkin sering merasa kesepian. Tetapi ketahuilah bahwa kamu tidak pernah sendirian. Kamu mungkin tidak dilahirkan dengan penampilan atau uang yang baik. Tetapi keindahan sejatimu tersembunyi di dalam hatimu. Hatimu yang mungkin sudah sangat hancur, tapi kamu masih di sini. Jangan menyerah. Pegang terus mimpimu. Suatu hari kamu mungkin mencapainya.
 
 Percayalah pada dirimu sendiri. Kamu pantas mendapatkan yang terbaik di dunia ini. Kamu layak mendapatkan kebahagiaan, cinta, kebaikan, kesetiaan, dan kejujuran. Dan aku akan memberikanmu semuanya itu, untuk kalian semua jika aku bisa. Meskipun kamu orang asing bagiku, kamu layak untuk bahagia.
-{{< disable-copy >}}

@@ -52,4 +52,3 @@ Seberapa banyak pun air mata yang menghantui saya, selalu ada orang yang akan de
 Mempunyai teman dekat yang *kelihatan* bodoh dan konyol tidak pernah membuat saya malu dekat dengan mereka, justru karena adanya mereka, di masa depan nanti saya sudah mempunyai kenangan luar biasa yang tak akan pernah bisa saya lupa.
 
 ### Good friends are like stars. You don't always see them, but you know they're always there. –Unknown
-{{< disable-copy >}}

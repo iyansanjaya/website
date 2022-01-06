@@ -42,4 +42,3 @@ Ini adalah tentang kehidupan. Ini tentang menemukan hal-hal baru di sepanjang ja
 Mengapa kamu terus merampas penghargaan, cinta, dan harga dirimu? Aku tidak peduli apa alasannya tetapi kamu layak, dan kamu pantas mendapat setiap ons kasih yang kamu terima. Bahkan mungkin lebih.
 
 Ingatlah bahwa kamu adalah matahari dalam hidupmu dan kamu adalah pusat dari duniamu sendiri. Kamu mungkin hanya melihat dirimu sebagai bola gas yang mengambang tanpa berpikir di ruang angkasa, tetapi ingatlah bahwa planet-planet mengorbit di sekitarmu dan kamu menjaga alam semesta tetap utuh. Itulah pentingnya dirimu. Jangan biarkan siapa pun membuatmu melupakan hal itu. Silahkan lanjutkan harimu menjadi jauh lebih ringan. Dan ketika sudah malam hari, buatlah esok menjadi bersinar lebih terang dari kemarin. Kamu akan baik-baik saja.
-{{< disable-copy >}}

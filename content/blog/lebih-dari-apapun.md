@@ -48,4 +48,3 @@ Kata-kata yang diungkapkan Neil Gaiman di atas membuat saya berfikir ulang, saya
 Dan seperti ungkapan Neil Gaiman tadi, dengan begini saya *melakukan sesuatu*, itu penting bagi saya.
 
 ### *"Masa lalu tidak bisa diubah. Masa depan masih dalam kuasa Anda." -HughWhite*
-{{< disable-copy >}}

@@ -39,4 +39,3 @@ Kesakitan, kesendirian, kekosongan, kesepian, saya tahu semua perasaan itu, saya
 
 {{< message-box >}}
 [{{< support >}}](https://karyakarsa.com/iyansanjaya/support?post_id=22324&item_type=post)
-{{< disable-copy >}}

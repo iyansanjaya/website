@@ -54,4 +54,3 @@ Saya ingin Anda meyadari sesuatu.
 Ingatlah bahwa orang-orang yang Anda cintai masih jauh lebih penting daripada si “Egois”. Ingatlah bahwa hubungan relasi yang sudah Anda bangun dengan susah payah, tidak bisa kembali normal begitu saja.
 
 ### Si “Egois” akan selalu ada di dekat kita, jangan sampai dia mengambil sesuatu yang berharga dari diri Anda.
-{{< disable-copy >}}

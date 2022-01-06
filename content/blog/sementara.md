@@ -52,4 +52,3 @@ Apa yang kita miliki memang bersifat sementara, itu hanyalah *titipan* yang dipe
 Bukan malah menjadi lebih buruk.
 
 Itu harus menjadi sebuah keharusan.
-{{< disable-copy >}}

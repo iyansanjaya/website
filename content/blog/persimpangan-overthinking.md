@@ -36,4 +36,3 @@ Di dalam perjalanan kehidupan yang cukup singkat ini, kita semua selalu diperhad
 Mari lupakan sejenak tentang pencetusnya, lalu apa arti dari kata *persimpangan* ini?
 {{< message-box >}}
 [{{< support >}}](https://karyakarsa.com/iyansanjaya/support?post_id=34399&item_type=post)
-{{< disable-copy >}}

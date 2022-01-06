@@ -58,4 +58,3 @@ Mereka berani menampilkan diri mereka karena Barnum menunjukan keberaniannya, di
 Begitupun saya, yang sedang berjuang mati-matian untuk membunuh *diri saya*, melawan zona nyaman saya dan mulai berani bertindak.
 
 Mulailah memikirkan cita-cita dan mimpi yang ada di dalam diri Anda, keluarlah dari zona nyaman Anda, lawan dan bunuh musuh Anda *(sisi buruk dari diri Anda sendiri)* dan mulai membuat rencana untuk masa depan Anda, dan bertindaklah dimulai dari hal-hal kecil.
-{{< disable-copy >}}

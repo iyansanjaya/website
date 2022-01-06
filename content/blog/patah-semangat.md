@@ -54,4 +54,3 @@ Jalan terbaik ketika kita patah semangat adalah, menceritakan apa yang kita alam
 
 Datanglah bertatap muka dengannya, dan mulailah menceritakan semuanya, karena dengan begitu kita bisa melepaskan perasaan itu. Dan yang paling penting adalah doa, karena itulah yang paling ampuh dari yang saya sebutkan di atas.
 Saya pun masih belajar untuk mengontrol emosi saya, emosi kejenuhan saya, kelelahan saya, fikiran-fikiran negatif saya dan lain sebagainya. Tidak mudah, butuh proses untuk bisa mengatasi itu semua, tapi saya yakin semua akan indah pada waktunya.
-{{< disable-copy >}}

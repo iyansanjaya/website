@@ -40,4 +40,3 @@ Aku hanya ingin kamu mengerti, kamu adalah salah satu manusia sempurna di mataku
 Apa kamu masih mau bertahan? Aku tahu ini berat bagimu, aku juga tahu mungkin akhirnya kita akan merasakan hal yang sama lagi. Tapi masihkah kamu mau terus berharap? Walaupun mungkin tidak sesuai dengan apa yang kamu mau? Aku hanya ingin kamu terus berjuang dengan hidupmu. Seperti aku juga terus berjuang dengan hidupku.
 
 Mulailah dari awal lagi, lakukan apa yang bisa kamu lalukan. Tidak usah pedulikan apa yang orang lain lihat atau katakan padamu, kamu pantas, selalu pantas di mataku, karena tokoh utama dari hidupmu adalah dirimu sendiri. Tersenyumlah bersamaku, ini akan baik-baik saja.
-{{< disable-copy >}}
