@@ -1,0 +1,273 @@
+p {
+  font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+}
+
+h2 {
+  font-family: 'Nunito', sans-serif;
+}
+
+h3 {
+  font-family: 'Nunito', sans-serif;
+}
+
+h4 {
+  font-family: 'Nunito', sans-serif;
+}
+
+h5 {
+  font-family: 'Nunito', sans-serif;
+}
+
+h6 {
+  font-family: 'Nunito', sans-serif;
+}
+
+/* EKSLUSIF CONTENT */
+.eksklusif {
+  color: #3b96ff;
+}
+
+.badge-eks {
+  border-radius: 4px;
+  background: #d30000;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-right: 12px;
+  padding-left: 7px;
+  max-width: 200px;
+  height: 23px;  
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+}
+/* END */
+
+.first-entry {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 300px;
+  margin: var(--gap)0 calc(var(--gap) * 2);
+}
+
+.nav {
+  font-family: 'Nunito', sans-serif;
+}
+
+.post-tags {
+  font-family: 'Nunito', sans-serif;
+}
+
+.post-tags li {
+    display: inline-block;
+    margin-inline-end: 3px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+.paginav {
+  font-family: 'Nunito', sans-serif;
+}
+
+.pagination {
+  font-family: 'Nunito', sans-serif;
+}
+
+.toc {
+  font-family: 'Nunito', sans-serif;
+}
+
+.post-description {
+  font-family: 'Nunito', sans-serif;
+}
+
+.breadcrumbs {
+  font-family: 'Nunito', sans-serif;
+}
+
+.footer {
+  font-family: 'Nunito', sans-serif;
+}
+
+/*
+Pastikan selalu update head.html pada layouts > partial.
+Dari tema PaperMod.
+*/
+
+/* BUTTON SUPPORT */
+.button-support {
+  background-color: #3b96ff;
+  border-radius: 4px;
+  border: 0;
+  box-shadow: rgba(1,60,136,.5) 0 -1px 3px 0 inset,rgba(0,44,97,.1) 0 3px 6px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inherit;
+  font-family: "Space Grotesk",-apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 24px;
+  margin: 0;
+  min-height: 56px;
+  width: 100%;
+  padding: 16px 20px;
+  position: relative;
+  text-align: center;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  transition: all .2s cubic-bezier(.22, .61, .36, 1);
+}
+
+.button-support:hover {
+  background-color: #3b96ff;
+  transform: translateY(-2px);
+}
+
+@media (min-width: 768px) {
+  .button-support {
+    padding: 16px 44px;
+    min-width: 150px;
+  }
+}
+
+/* BUTTON TRAKTEER */
+.button-56 {
+  align-items: center;
+  background-color: #be1e2d;
+  border: 2px solid #991a26;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  height: 48px;
+  justify-content: center;
+  line-height: 24px;
+  max-width: 100%;
+  padding: 0 25px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-56:after {
+  background-color: #991a26;
+  border-radius: 8px;
+  content: "";
+  display: block;
+  height: 48px;
+  left: 0;
+  width: 100%;
+  position: absolute;
+  top: -2px;
+  transform: translate(8px, 8px);
+  transition: transform .2s ease-out;
+  z-index: -1;
+}
+
+.button-56:hover:after {
+  transform: translate(0, 0);
+}
+
+.button-56:active {
+  background-color: #fff;
+  color: #be1e2d;
+  outline: 0;
+}
+
+.button-56:hover {
+  outline: 0;
+}
+
+@media (min-width: 768px) {
+  .button-56 {
+    padding: 0 40px;
+  }
+}
+
+/* BG COMMENT */
+.comment-bg {
+  background-color: #fff;
+  transition: 0.3s;
+  width: 100%;
+  border-radius: 7px;
+  margin-top: 16px;
+  border-color: #f5f5f5;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.container-cm {
+  padding: 2px 20px;
+}
+
+/* MESSAGE BOX */
+.message-box {
+  color: #3b96ff;
+  max-width: 450px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #3b96ff;
+  border-width: 1px;
+  text-align: center;
+  font-size: 13px;
+}
+
+/* BADGE */
+.badge {
+  display: inline-block;
+  padding: 2px 6px;
+  color: #fff;
+  background: #6674a5;
+}
+.badge-wrap {
+  display: flex;
+  align-items: center;
+}
+.badge-text {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 14px;
+}
+.container-badge {
+  text-align: left;
+}
+
+@-webkit-keyframes ani-breath {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes ani-breath {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+  100% {
+    opacity: 1;
+  }
+}

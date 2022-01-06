@@ -1,0 +1,181 @@
+baseURL: "https://iyansanjaya.com/"
+title: Iyan Sanjaya
+paginate: 4
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: false
+      xhtml: false
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Iyan Sanjaya
+    description: "Ini adalah tempat di mana saya menyimpan semua tulisan yang sudah saya buat di Medium dan beberapa catatan lain yang tidak ada di sana."
+    keywords: [Iyan Sanjaya, Portfolio, Poronesia]
+    author: Iyan Sanjaya
+    # author: ["Me", "You"] # multiple authors
+    images: ["/iyan.png"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light, auto
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: false
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: true
+    hidemeta: false
+    hideSummary: false
+    showtoc: true
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "/favicon.ico"
+        favicon16x16: "/favicon-16x16.png"
+        favicon32x32: "/favicon-32x32.png"
+        apple_touch_icon: "/apple-touch-icon.png"
+        safari_pinned_tab: "/android-chrome-192x192.png"
+
+    label:
+        text: "Iyan Sanjaya"
+        #icon: /apple-touch-icon.png
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: false # needs to be explicitly set
+        title: Iyan Sanjaya
+        subtitle: "Selamat datang \U0001F44B Di sini adalah tempat di mana saya menyimpan semua tulisan yang sudah saya buat di *Medium*, dan beberapa catatan lain yang tidak ada di sana. Bisa dibilang ini seperti buku digital yang saya buat untuk diri sendiri."
+        imageUrl: "/iyan.png"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my image
+        # buttons:
+        #     - name: About
+        #       url: about
+        #     - name: Blog
+        #       url: blog
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi! \U0001F44B"
+        Content: Selamat datang. Website ini seperti buku digital pribadi, setiap tulisan yang sudah dan akan saya buat berada di sini. Anda bisa berkomentar dan berdiskusi di setiap post saya. Anda juga bisa menghubungi saya melalui menu **Contact**.
+
+    socialIcons:
+        - name: instagram
+          url: "https://instagram.com/iyannsanjaya"
+        - name: twitter
+          url: "https://twitter.com/iyannsanjaya"
+        - name: facebook
+          url: "https://facebook.com/iyannsanjaya"
+        - name: medium
+          url: "https://iyansanjaya.medium.com"
+        - name: linkedin
+          url: "https://id.linkedin.com/in/iyansanjaya"
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+    #     bing:
+    #         SiteVerificationTag: "XYZabc"
+    #     yandex:
+    #         SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: false # hide everywhere but not in structured data
+        hiddenInList: false # hide on list pages and home
+        hiddenInSingle: false # hide on single page
+
+    #editPost:
+        #URL: "https://github.com/<path_to_repo>/content"
+        #Text: "Suggest Changes" # edit text
+        #appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: 10
+        - identifier: archive
+          name: Archive
+          url: /arc/
+          weight: 20
+        - identifier: konten-eksklusif
+          name: Eksklusif
+          url: /tags/konten-eksklusif/
+          weight: 30
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 40
+        # - identifier: portofolio
+        #   name: Portofolio
+        #   url: /porto/
+        #   weight: 40
+        - identifier: contact
+          name: Contact
+          url: /contact/
+          weight: 50
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 60
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
