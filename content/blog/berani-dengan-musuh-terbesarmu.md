@@ -31,30 +31,30 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
-Anda pernah menonton film yang berjudul **The Greatest Showman?** Film yang sangat bagus menurut saya, banyak sekali pelajaran yang bisa kita petik dari film itu, salah satunya adalah Keberanian.
+Lo pernah nonton film yang berjudul **The Greatest Showman**? Film yang sangat bagus menurut gue, banyak sekali pelajaran yang bisa kita petik dari film itu, salah satunya adalah Keberanian.
 
-Barnum sang tokoh utama memperlihatkan kepada kita betapa bergairahnya dia dengan cita-cita dan impian yang dia punya. Walau banyak sekali rintangan dan cobaan yang dia hadapi, akan tetapi gairah dan keberaniannya mengalahkan semua yang menghalangi langkahnya. Walaupun dia sempat melakukan kesalahan, bahkan jatuh di titik di mana dia benar-benar tidak mempunyai apapun. Tapi perjuangan, keberanian, dan dukungan dari orang-orang terdekatnya membuat dia bangkit dan mengubah cara pandang hidupnya.
+Barnum sang tokoh utama memperlihatkan kepada kita betapa bergairahnya dia dengan cita-cita dan impian yang dia punya. Walau banyak sekali rintangan dan cobaan yang dia hadapi, akan tetapi gairah dan keberaniannya mengalahkan semua yang menghalangi langkahnya. Walaupun dia sempat melakukan kesalahan, bahkan jatuh di titik di mana dia benar-benar enggak memiliki apapun. Tapi perjuangan, keberanian, dan dukungan dari orang-orang terdekatnya membuat dia bangkit dan mengubah cara pandang hidupnya.
 
-Akan sangat panjang jika saya menjelaskan semua tentang film itu, tapi untuk penjelasan singkat di atas, saya rasa point utama dari apa yang akan saya tulis di sini sudah bisa dimengerti.
+Akan sangat panjang kalo gue menjelaskan semua tentang film itu, tapi untuk penjelasan singkat di atas, gue rasa poin utama dari apa yang akan gue tulis di sini sudah bisa dimengerti.
 
-Saya pernah membaca salah satu buku yang ditulis oleh Brené Brown, buku yang berhasil mengubah hidup saya dan cara pandang yang sebenarnya dari menerima diri saya apa adanya. Di salah satu tulisan-tulisan yang dia ungkapkan, ada salah satu kutipan yang menarik tentang keberanian yang dia berikan dan berbunyi demikian:
+Gue pernah baca salah satu buku yang ditulis oleh Brené Brown, buku yang berhasil mengubah hidup gue dan cara pandang yang sebenarnya dari menerima diri apa adanya. Di salah satu tulisan-tulisan yang dia ungkapkan, ada salah satu kutipan yang menarik tentang keberanian yang dia berikan dan berbunyi demikian:
 
 > *"Kau harus berani dengan hidupmu agar orang lain dapat menjadi berani dengan hidup mereka".-Katherine Center*
 
-Jika dipirkirkan baik-baik, kata-kata tersebut merupakan kebenaran yang memang seharusnya kita pikirkan. Disaat kita berani maju dan melangkah menghadapi segala macam tantangan di dalam hidup kita, maka orang lain bisa melihat kita dan meniru apa yang kita lakukan, namun semua itu harus dimulai dari diri kita sendiri.
+Kalo dipirkirkan baik-baik, kata-kata tersebut merupakan kebenaran yang memang seharusnya kita pikirkan. Disaat kita berani maju dan melangkah menghadapi segala macam tantangan di dalam hidup, maka orang lain bisa melihat kita dan meniru apa yang kita lakukan, namun semua itu harus dimulai dari diri kita sendiri.
 
-Apakah Anda mempunyai mimpi atau cita-cita? Saya yakin Anda punya, namun tidak semua orang mempunyai keberanian untuk berani mengambil tindakan. Dan kebanyakan orang-orang kalah oleh musuh terbesar mereka, yaitu diri mereka sendiri.
+Apakah Lo mempunyai mimpi atau cita-cita? Gue yakin Lo punya, namun enggak semua orang mempunyai keberanian untuk berani mengambil tindakan. Dan kebanyakan orang-orang kalah oleh musuh terbesar mereka, yaitu diri mereka sendiri.
 
-Kemalasan, kurang percaya diri, pesimis, dan ketakutan adalah musuh terbesar dari keberanian. Dan itu juga merupakan pergumulan yang sedang saya hadapi, bahkan saya terus-menerus jatuh dan sempat tidak sanggup berdiri lagi.
+Kemalasan, kurang percaya diri, pesimis, dan ketakutan adalah musuh terbesar dari keberanian. Dan itu juga merupakan pergumulan yang sedang gue hadapi, bahkan gue terus-menerus jatuh di lubang yang sama secara terus-menerus.
 
-Tapi tentunya rasa gairah dan keinginan yang besar tidak pernah bisa menghancurkan mimpi dan cita-cita saya, maka *berani* bertindak adalah jalan yang harus saya lakukan.
+Tapi tentunya rasa gairah dan keinginan yang besar enggak pernah bisa menghancurkan mimpi dan cita-cita gue, maka *berani* bertindak adalah jalan yang harus gue lakukan.
 
-Tidak mudah dan benar-benar sangat sulit, namun perlahan tapi pasti saya mulai bangkit dan memberanikan diri saya untuk *membunuh* musuh terbesar saya. Saya menghancurkan rasa malas saya, biarpun terkadang saya jatuh, tapi itu tidak akan pernah bisa membuat saya terus-menerus berada di dalam kondisi seperti zombie *(mayat hidup)*, yang hanya berjalan tanpa ada tujuan yang pasti.
+Tidak mudah dan benar-benar sangat sulit, namun perlahan tapi pasti gue mulai bangkit dan memberanikan diri untuk *membunuh* musuh terbesar gue. Gue mencoba menghancurkan rasa malas, biarpun terkadang gue jatuh, tapi itu enggak akan pernah bisa membuat gue terus-menerus berada di dalam kondisi seperti zombie *(mayat hidup)*, yang hanya berjalan tanpa ada tujuan yang pasti.
 
-Begitu pula dengan Barnum, adalah seorang yang tidak mempunyai banyak harta dan tidak mempunyai kedudukan yang tinggi, namun dia mempunyai mimpi yang luar biasa, dia memulai semua perjalanan hidupnya dari nol, dia melihat ada celah yang bisa dia gunakan untuk membuat mimpinya menjadi kenyataan. Dia mengambil orang-orang yang memiliki kelainan tubuh, dan menjadikan mereka *bintang* di atas panggung.
+Begitu pula dengan Barnum, adalah seseorang yang enggak mempunyai banyak harta dan enggak mempunyai kedudukan yang tinggi, namun dia mempunyai mimpi yang luar biasa, dia memulai semua perjalanan hidupnya dari nol, dia melihat ada celah yang bisa dia gunakan untuk membuat mimpinya menjadi kenyataan. Dia mengambil orang-orang yang memiliki kelainan tubuh, dan menjadikan mereka *bintang* di atas panggung.
 
 Mereka berani menampilkan diri mereka karena Barnum menunjukan keberaniannya, dimulai dari hal-hal kecil hingga mereka benar-benar menjadi tokoh utama dari cerita yang mereka buat, kehidupan yang mereka jalani, dan menjadi seorang yang diakui hebat karena keberaniannya.
 
-Begitupun saya, yang sedang berjuang mati-matian untuk membunuh *diri saya*, melawan zona nyaman saya dan mulai berani bertindak.
+Begitupun dengan gue, yang sedang berjuang mati-matian untuk membunuh *diri sendiri*, melawan zona nyaman dan mulai berani bertindak.
 
-Mulailah memikirkan cita-cita dan mimpi yang ada di dalam diri Anda, keluarlah dari zona nyaman Anda, lawan dan bunuh musuh Anda *(sisi buruk dari diri Anda sendiri)* dan mulai membuat rencana untuk masa depan Anda, dan bertindaklah dimulai dari hal-hal kecil.
+Mulailah memikirkan cita-cita dan mimpi yang ada di dalam diri Lo, keluarlah dari zona nyaman, lawan dan bunuh musuh Lo *(sisi buruk dari diri Lo sendiri)* dan mulailah membuat rencana untuk masa depan, dan bertindaklah dimulai dari hal-hal kecil.
