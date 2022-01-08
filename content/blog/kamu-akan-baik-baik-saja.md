@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 cover:
     image: "/blog/kamu-akan-baik-baik-saja.jpg" # image path/url
     alt: "Kamu Akan Baik-Baik Saja" # alt text
-    caption: "(Photo by Aperture Vintage on Unsplash)" # display caption under cover
+    caption: "(Photo by Jordan McQueen on Unsplash)" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 #editPost:

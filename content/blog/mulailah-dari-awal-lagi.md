@@ -21,9 +21,9 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "https://miro.medium.com/max/700/1*56O1wWRE4NqjCUaNekeKYA.jpeg" # image path/url
+    image: "/blog/mulailah-dari-awal-lagi.jpg" # image path/url
     alt: "Mulailah Dari Awal Lagi" # alt text
-    caption: "(Photo by Dil on Unsplash)" # display caption under cover
+    caption: "*(Photo by Jean-Philippe Delberghe on Unsplash)*" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 #editPost:

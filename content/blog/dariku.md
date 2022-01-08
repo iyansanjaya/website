@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 cover:
     image: "/blog/dariku.jpg" # image path/url
     alt: "Dariku" # alt text
-    caption: "(Photo by Zach Vessels on Unsplash)" # display caption under cover
+    caption: "(Photo by kychan on Unsplash)" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 #editPost:
