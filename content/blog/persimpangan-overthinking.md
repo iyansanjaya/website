@@ -3,7 +3,7 @@ title: "Persimpangan - Overthinking"
 date: 2021-05-23T11:44:05+07:00
 draft: false
 # weight: 1
-tags: ["self-help", "artikel", "Konten Eksklusif"]
+tags: ["self-help", "artikel"]
 author: "Iyan Sanjaya"
 # author: ["Me", "You"] # multiple authors
 showToc: false
