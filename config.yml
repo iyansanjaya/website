@@ -50,7 +50,7 @@ params:
     # author: ["Me", "You"] # multiple authors
     images: ["/iyan.png"]
     DateFormat: "January 2, 2006"
-    defaultTheme: auto # dark, light, auto
+    defaultTheme: dark # dark, light, auto
     disableThemeToggle: false
 
     ShowReadingTime: true
