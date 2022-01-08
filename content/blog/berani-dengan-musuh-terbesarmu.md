@@ -49,7 +49,7 @@ Kemalasan, kurang percaya diri, pesimis, dan ketakutan adalah musuh terbesar dar
 
 Tapi tentunya rasa gairah dan keinginan yang besar enggak pernah bisa menghancurkan mimpi dan cita-cita gue, maka *berani* bertindak adalah jalan yang harus gue lakukan.
 
-Tidak mudah dan benar-benar sangat sulit, namun perlahan tapi pasti gue mulai bangkit dan memberanikan diri untuk *membunuh* musuh terbesar gue. Gue mencoba menghancurkan rasa malas, biarpun terkadang gue jatuh, tapi itu enggak akan pernah bisa membuat gue terus-menerus berada di dalam kondisi seperti zombie *(mayat hidup)*, yang hanya berjalan tanpa ada tujuan yang pasti.
+Enggak mudah dan benar-benar sangat sulit, namun perlahan tapi pasti gue mulai bangkit dan memberanikan diri untuk *membunuh* musuh terbesar gue. Gue mencoba menghancurkan rasa malas, biarpun terkadang gue jatuh, tapi itu enggak akan pernah bisa membuat gue terus-menerus berada di dalam kondisi seperti zombie *(mayat hidup)*, yang hanya berjalan tanpa ada tujuan yang pasti.
 
 Begitu pula dengan Barnum, adalah seseorang yang enggak mempunyai banyak harta dan enggak mempunyai kedudukan yang tinggi, namun dia mempunyai mimpi yang luar biasa, dia memulai semua perjalanan hidupnya dari nol, dia melihat ada celah yang bisa dia gunakan untuk membuat mimpinya menjadi kenyataan. Dia mengambil orang-orang yang memiliki kelainan tubuh, dan menjadikan mereka *bintang* di atas panggung.
 
