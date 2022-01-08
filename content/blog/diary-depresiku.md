@@ -35,7 +35,7 @@ Diary Depresiku adalah sebuah lagu yang dinyanyikan oleh Last Child. Lagu yang m
 
 Mendegar bait pertama lagu ini membuat tubuh saya lemas, ketika sampai di reff saya menangis. Mungkin bagi sebagian orang lagu ini tidak terlalu menarik, tapi lain cerita ketika Anda adalah korban dari perceraian itu sendiri.
 
-Kesakitan, kesendirian, kekosongan, kesepian, saya tahu semua perasaan itu, saya sudah merasakannya sejak kecil, didikan yang cukup keras juga saya rasakan. Saya dibesarkan oleh nenek saya, dia mencintai saya dengan caranya sendiri, terkadang kata-kata yang keluar dari mulutnya teramat sangat menyakitkan. Mungkin sering?
+<!-- Kesakitan, kesendirian, kekosongan, kesepian, saya tahu semua perasaan itu, saya sudah merasakannya sejak kecil, didikan yang cukup keras juga saya rasakan. Saya dibesarkan oleh nenek saya, dia mencintai saya dengan caranya sendiri, terkadang kata-kata yang keluar dari mulutnya teramat sangat menyakitkan. Mungkin sering? -->
 
 {{< message-box >}}
 [{{< support >}}](https://karyakarsa.com/iyansanjaya/support?post_id=22324&item_type=post)
