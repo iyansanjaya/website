@@ -35,7 +35,7 @@ Di dalam perjalanan kehidupan yang cukup singkat ini, kita semua selalu diperhad
 
 Mari lupakan sejenak tentang pencetusnya, lalu apa arti dari kata *persimpangan* ini?
 
-Ketika gue sedang menulis tulisan ini, gue sedang berada di sebuah *persimpangan*. Bukan! Bukan persimpangan jalan yang saat ini Lo sedang pikirkan, tapi gue sedang berada dalam suatu kondisi dimana gue sedang terdiam dan enggak tahu harus belok ke arah mana di dalam perjalanan kehidupan gue. Kondisi seperti ini sangat sering terjadi, dan tentunya bukan hanya kepada gue seorang.
+Ketika gue sedang menulis tulisan ini, gue sedang berada di sebuah *persimpangan*. Bukan! Bukan persimpangan jalan yang saat ini Lo sedang pikirkan, tapi gue sedang berada dalam suatu kondisi di mana gue sedang terdiam dan enggak tahu harus belok ke arah mana di dalam perjalanan kehidupan gue. Kondisi seperti ini sangat sering terjadi, dan tentunya bukan hanya kepada gue seorang.
 
 Ketika sadang berada di dalam sebuah *persimpangan*, hampir enggak mungkin kita enggak mengalami *overthinking*, khususnya kepada gue. Kita akan mencoba untuk meramal dan meraba-raba masa depan. Kondisi inilah yang membuat banyak dari kita akan “tersandung” dan “berdarah”. Bahkan enggak jarang juga kita akan mengalami *gesekan* dengan orang-orang terdekat.
 
