@@ -138,7 +138,7 @@ Dari tema PaperMod.
   }
 }
 
-/* BUTTON TRAKTEER */
+/* BUTTON BUKA EKSKLUSIF */
 .button-56 {
   align-items: center;
   background-color: #be1e2d;
@@ -148,7 +148,7 @@ Dari tema PaperMod.
   color: #fff;
   cursor: pointer;
   display: flex;
-  font-family: Inter,sans-serif;
+/*  font-family: Inter,sans-serif;*/
   font-size: 16px;
   height: 48px;
   justify-content: center;
