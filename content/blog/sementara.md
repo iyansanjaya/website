@@ -21,7 +21,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "https://images.unsplash.com/photo-1475070929565-c985b496cb9f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80" # image path/url
+    image: "/blog/sementara.jpg" # image path/url
     alt: "Sementara" # alt text
     caption: "(Photo by Karsten Würth on Unsplash)" # display caption under cover
     relative: false # when using page bundles set this to true

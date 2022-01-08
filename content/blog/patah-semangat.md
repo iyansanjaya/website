@@ -21,7 +21,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "https://images.unsplash.com/photo-1541199249251-f713e6145474?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80" # image path/url
+    image: "/blog/patah-semangat.jpg" # image path/url
     alt: "Patah Semangat" # alt text
     caption: "(Photo by Christian Erfurt on Unsplash)" # display caption under cover
     relative: false # when using page bundles set this to true

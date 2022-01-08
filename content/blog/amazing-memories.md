@@ -21,7 +21,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "https://cdn-images-1.medium.com/max/800/1*zgPDEBAzrePDBo4MbhK3yQ.jpeg" # image path/url
+    image: "/blog/amazing-memories.jpg" # image path/url
     alt: "Amazing Memories" # alt text
     caption: "(source image: apaksgoods.com)" # display caption under cover
     relative: false # when using page bundles set this to true

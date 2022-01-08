@@ -21,7 +21,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "https://cdn-images-1.medium.com/max/800/1*By1cvRb8-msD-DNTvBSX8A.jpeg" # image path/url
+    image: "/blog/lebih-dari-apapun.jpg" # image path/url
     alt: "Lebih Dari Apapun" # alt text
     caption: "(source image: youtube.com)" # display caption under cover
     relative: false # when using page bundles set this to true
