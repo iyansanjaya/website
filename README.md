@@ -5,6 +5,7 @@
 # Tutorial:
 ## Connect repo:
 ```
+git clone <repo>
 git init
 git remote add origin <choose repo>
 ```
