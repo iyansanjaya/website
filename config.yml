@@ -98,7 +98,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi! \U0001F44B"
-        Content: Selamat datang. Website ini seperti buku digital pribadi, setiap tulisan yang sudah gue buat dan akan gue buat berada di sini. Lo bisa berkomentar di setiap postnya. Engga juga gapapa sih.
+        Content: Selamat datang! Website ini seperti buku digital pribadi, atau bisa juga disebut blog. Setiap tulisan yang sudah gue buat dan akan gue buat berada di sini. Lo bisa berkomentar di setiap postnya. Enggak juga gapapa sih.
 
     socialIcons:
         - name: instagram
