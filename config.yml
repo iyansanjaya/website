@@ -147,7 +147,7 @@ menu:
           weight: 10
         - identifier: archive
           name: Archive
-          url: /arc/
+          url: /arch/
           weight: 20
         - identifier: konten-eksklusif
           name: Eksklusif
