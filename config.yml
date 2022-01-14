@@ -52,7 +52,6 @@ params:
     DateFormat: "January 2, 2006"
     defaultTheme: dark # dark, light, auto
     disableThemeToggle: false
-
     ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
@@ -105,12 +104,12 @@ params:
           url: "https://instagram.com/iyannsanjaya"
         - name: twitter
           url: "https://twitter.com/iyannsanjaya"
-        - name: facebook
-          url: "https://facebook.com/iyannsanjaya"
-        - name: medium
-          url: "https://iyansanjaya.medium.com"
+        - name: steam
+          url: "https://steamcommunity.com/id/iyansanjaya"
         - name: linkedin
           url: "https://id.linkedin.com/in/iyansanjaya"
+        - name: other
+          url: "https://opensea.io/iyans"
 
     # analytics:
     #     google:
