@@ -40,4 +40,8 @@ Gue adalah seorang `Designer Grafis`, `Front-End Web Developer`, `Penulis` & `Vi
 
 Gue juga mempelajari dunia website lebih dari 5 tahun, dan 4 tahun mengembangkan diri untuk menjadi penulis. Dan gue sendiri memiliki website e-commerce [Poronesia.com](https://poronesia.com) yang menjual game-game original dan produk digital yang sudah terpercaya sejak tahun 2018 gue memulainya.
 
-Itu adalah sekilas tentang pekerjaan gue. Semoga perkenalan singkat dan satu arah ini bisa mewakili profile yang gue punya. Kalau Lo mau menghubungi gue, bisa melalui menu [Contact](/contact).
+Itu adalah sekilas tentang pekerjaan gue. Semoga perkenalan singkat dan satu arah ini bisa mewakili profile yang gue punya.
+
+Kalau Lo mau menghubungi gue, bisa melalui form di bawah:
+
+{{< contact-form >}}

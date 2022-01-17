@@ -109,7 +109,7 @@ params:
         - name: linkedin
           url: "https://id.linkedin.com/in/iyansanjaya"
         - name: other
-          url: "https://opensea.io/iyans"
+          url: "https://rarible.com/insa"
 
     # analytics:
     #     google:
@@ -153,17 +153,17 @@ menu:
           name: Eksklusif
           url: /tags/konten-eksklusif/
           weight: 30
-        - identifier: about
-          name: About
-          url: /about/
-          weight: 40
         # - identifier: portofolio
         #   name: Portofolio
         #   url: /porto/
         #   weight: 40
-        - identifier: contact
-          name: Contact
-          url: /contact/
+        - identifier: nfts
+          name: NFTs
+          url: https://rarible.com/insa
+          weight: 40
+        - identifier: about
+          name: About
+          url: /about/
           weight: 50
         - identifier: search
           name: Search
