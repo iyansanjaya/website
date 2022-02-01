@@ -109,7 +109,7 @@ params:
         - name: linkedin
           url: "https://id.linkedin.com/in/iyansanjaya"
         - name: other
-          url: "https://rarible.com/insa"
+          url: "https://rarible.com/insamaru"
 
     # analytics:
     #     google:
@@ -159,7 +159,7 @@ menu:
         #   weight: 40
         - identifier: nfts
           name: NFTs
-          url: https://rarible.com/insa
+          url: https://rarible.com/insamaru
           weight: 40
         - identifier: about
           name: About
