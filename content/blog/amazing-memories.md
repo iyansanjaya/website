@@ -47,7 +47,7 @@ Atau ketika gue sedang lagi enggak bisa masuk sekolah dalam waktu yang cukup lam
 
 Ada banyak momen lain yang membuat hidup gue jauh lebih berwarna, dan mereka adalah salah satu orang yang mempunyai peran penting di kehidupan gue ini.
 
-Seberapa banyak pun air mata yang menghantui, selalu ada orang yang akan dengan sengaja memberikan waktunya untuk membuat gue tertawa. Seperti itulah yang gue rasakan. Gue yakin begitu pun dengan kalian. Kalo kalian enggak ngerasain hal itu, cobalah untuk membuka mata lebih lebar, dunia masih terlalu luas untuk kalian lihat.
+Seberapa banyak pun air mata yang menghantui, selalu ada orang yang akan dengan sengaja memberikan waktunya untuk membuat gue tertawa. Seperti itulah yang gue rasakan. Gue yakin begitu pun dengan lo. Kalo lo enggak ngerasain hal itu, cobalah untuk membuka mata lebih lebar, dunia masih terlalu luas untuk lo lihat.
 
 Mempunyai teman dekat yang *kelihatan* bodoh dan konyol enggak pernah membuat gue malu dekat dengan mereka, justru karena adanya mereka, di masa depan nanti gue sudah mempunyai kenangan luar biasa yang tak akan pernah bisa gue lupa.
 

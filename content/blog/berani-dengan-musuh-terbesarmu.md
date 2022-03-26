@@ -31,7 +31,7 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
-Kalian pernah nonton film yang berjudul **The Greatest Showman**? Film yang sangat bagus menurut gue, banyak sekali pelajaran yang bisa kita petik dari film itu, salah satunya adalah **keberanian**.
+Lo pernah nonton film yang berjudul **The Greatest Showman**? Film yang sangat bagus menurut gue, banyak sekali pelajaran yang bisa kita petik dari film itu, salah satunya adalah **keberanian**.
 
 Barnum sang tokoh utama memperlihatkan kepada kita betapa bergairahnya dia dengan cita-cita dan impian yang dia punya. Walau banyak sekali rintangan dan cobaan yang dia hadapi, akan tetapi gairah dan keberaniannya mengalahkan semua yang menghalangi langkahnya. Walaupun dia sempat melakukan kesalahan, bahkan jatuh di titik di mana dia benar-benar enggak memiliki apapun. Tapi perjuangan, keberanian, dan dukungan dari orang-orang terdekatnya membuat dia bangkit dan mengubah cara pandang hidupnya.
 
@@ -43,7 +43,7 @@ Gue pernah baca salah satu buku yang ditulis oleh Brené Brown, buku yang berhas
 
 Kalo dipirkirkan baik-baik, kata-kata tersebut merupakan kebenaran yang memang seharusnya kita pikirkan. Di saat kita berani maju dan melangkah menghadapi segala macam tantangan di dalam hidup, maka orang lain bisa melihat kita dan meniru apa yang kita lakukan, namun semua itu harus dimulai dari diri kita sendiri.
 
-Apakah kalian mempunyai mimpi atau cita-cita? Gue yakin kalian punya, namun enggak semua orang mempunyai keberanian untuk berani mengambil tindakan. Dan kebanyakan orang-orang akan kalah oleh musuh terbesar mereka, yaitu diri mereka sendiri.
+Apakah lo mempunyai mimpi atau cita-cita? Gue yakin lo punya, namun enggak semua orang mempunyai keberanian untuk berani mengambil tindakan. Dan kebanyakan orang-orang akan kalah oleh musuh terbesar mereka, yaitu diri mereka sendiri.
 
 Kemalasan, kurang percaya diri, pesimis, dan ketakutan adalah musuh terbesar dari keberanian. Dan itu juga merupakan pergumulan yang sedang gue hadapi, bahkan gue terus-menerus jatuh di lubang yang sama secara terus-menerus.
 
@@ -57,4 +57,4 @@ Mereka berani menampilkan diri mereka karena Barnum menunjukan keberaniannya, di
 
 Begitupun dengan gue, yang sedang berjuang mati-matian untuk membunuh *diri sendiri*, melawan zona nyaman dan mulai berani bertindak.
 
-Mulailah memikirkan cita-cita dan mimpi yang ada di dalam diri kalian, keluarlah dari zona nyaman, lawan dan bunuh musuh kalian *(sisi buruk dari diri kalian sendiri)* dan mulailah membuat rencana untuk masa depan, dan bertindaklah dimulai dari hal-hal kecil.
+Mulailah memikirkan cita-cita dan mimpi yang ada di dalam diri lo, keluarlah dari zona nyaman, lawan dan bunuh musuh lo *(sisi buruk dari diri lo sendiri)* dan mulailah membuat rencana untuk masa depan, dan bertindaklah dimulai dari hal-hal kecil.

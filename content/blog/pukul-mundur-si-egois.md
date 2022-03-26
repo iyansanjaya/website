@@ -31,26 +31,26 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
-Pernahkah kalian merasakan sesuatu yang begitu indah? Seperti perasaan berbunga-bunga ketika mendapatkan hati si pujaan hati? Atau merasakan bagaimana senangnya mendapatkan kabar kalau kalian telah menjadi pegawai tetap dan gaji kalian naik sampai 10 juta karena prestasi kalian di tempat kerja?
+Pernahkah lo merasakan sesuatu yang begitu indah? Seperti perasaan berbunga-bunga ketika mendapatkan hati si pujaan hati? Atau merasakan bagaimana senangnya mendapatkan kabar kalau lo telah menjadi pegawai tetap dan gaji lo naik sampai 10 juta karena prestasi lo di tempat kerja?
 
-Sepertinya gue ragu kalian pernah merasakan hal itu.
+Sepertinya gue ragu lo pernah merasakan hal itu.
 
-Tapi mari kita berandai-andai sedikit, anggaplah kalian sedang merasakannya saat ini, lalu coba bayangkan kembali tiba-tiba si pujaan hati meninggalkan kalian tanpa sebab, atau bos kalian tiba-tiba memecat kalian karena dia salah orang.
+Tapi mari kita berandai-andai sedikit, anggaplah lo sedang merasakannya saat ini, lalu coba bayangkan kembali tiba-tiba si pujaan hati meninggalkan lo tanpa sebab, atau bos lo tiba-tiba memecat lo karena dia salah orang.
 
-Percaya atau enggak, mungkin tragedi ini akan membuat air mata kalian habis begitu saja. Enggak ada negoisasi sama sekali.
+Percaya atau enggak, mungkin tragedi ini akan membuat air mata lo habis begitu saja. Enggak ada negoisasi sama sekali.
 
-Ketika *keberuntungan* datang dan membuat perasaan kita berbunga-bunga, tahukah kalian bahwa si “Egois” sedang memandangi kalian dari jarak yang sangat dekat, mungkin kalau kalian mengayunkan tangan kalian kesana-kemari, itu akan mengenai kepalanya.
+Ketika *keberuntungan* datang dan membuat perasaan kita berbunga-bunga, tahu nggak bahwa si “Egois” sedang memandangi diri lo dari jarak yang sangat dekat, mungkin kalau lo mengayunkan tangan kesana-kemari, itu akan mengenai kepalanya.
 
 Teori di atas mungkin terdengar aneh, dan terasa begitu bodoh untuk mempercayainya. Ya, memang gue mengarangnya sendiri, gue bahkan enggak menconteknya dari Wikipedia.
 
 Beberapa kali gue pernah mengalami *kehancuran*, dan itu karena ulah si “Egois”. Makhluk yang satu ini benar-benar membuat gue geram. Ketika gue sedang mengalami perasaan yang membahagiakan, terkadang dia merasuki gue tanpa permisi, dan parahnya gue enggak sadar sama sekali kalau dia masuk ke dalam diri gue. Dia akan menampakan diri ketika sahabat karibnya si "Kehancuran" sudah datang.
 
-Kalau kalian sekarang sedang mengalami sesuatu yang membuat kalian senang ataupun mungkin enggak, ada baiknya kalian melihat sekeliling, apakah si “Egois” sedang berada di dekat kalian atau enggak. Tapi percayalah bahwa dia sedang menatap kalian dengan serius. Atau kalau memang kalian menyadari bahwa dia sedang berada dalam diri kalian, pukul mundur! Lepaskan dan jauhkan diri darinya.
+Kalau lo sekarang sedang mengalami sesuatu yang membuat lo senang ataupun mungkin enggak, ada baiknya lo melihat sekeliling, apakah si “Egois” sedang berada di dekat lo atau enggak. Tapi percayalah bahwa dia sedang menatap dengan serius. Atau kalau memang lo menyadari bahwa dia sedang berada dalam diri lo, pukul mundur! Lepaskan dan jauhkan diri darinya.
 
-Jangan sampai *kehancuran* datang karena ulahnya. Si “Egois” memiliki beberapa sahabat lain yang selalu menemaninya, yaitu si “Enggak Mau Kalah”, dan dialah yang akan mengikat kalian sehingga kalian enggak bisa pergi kemana-mana.
+Jangan sampai *kehancuran* datang karena ulahnya. Si “Egois” memiliki beberapa sahabat lain yang selalu menemaninya, yaitu si “Enggak Mau Kalah”, dan dialah yang akan mengikat lo sehingga lo enggak bisa pergi kemana-mana.
 
-Gue ingin kalian meyadari sesuatu.
+Gue ingin lo meyadari sesuatu.
 
-Ingatlah bahwa orang-orang yang kalian cintai masih jauh lebih penting daripada si “Egois”. Ingatlah bahwa hubungan relasi yang sudah kalian bangun dengan susah payah, enggak bisa kembali normal begitu saja.
+Ingatlah bahwa orang-orang yang lo cintai masih jauh lebih penting daripada si “Egois”. Ingatlah bahwa hubungan relasi yang sudah lo bangun dengan susah payah, enggak bisa kembali normal begitu saja.
 
-### Si “Egois” akan selalu ada di dekat kita, jangan sampai dia mengambil sesuatu yang berharga dari diri kalian.
+### Si “Egois” akan selalu ada di dekat kita, jangan sampai dia mengambil sesuatu yang berharga dari diri lo.
