@@ -32,7 +32,7 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
-![Iyan Sanjaya](https://cdn.discordapp.com/attachments/328786943435603970/917669433374302218/avatar.png)
+![Iyan Sanjaya](/iyan.png)
 Hi yang di sana! 👋
 
 Senang rasanya bisa berkenalan dengan banyak orang, walaupun sebenarnya gue introvert 😆 Tapi tidak apa, karena bukan berarti gue anti-sosial.
