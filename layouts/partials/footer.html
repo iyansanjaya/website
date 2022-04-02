@@ -5,10 +5,10 @@
     <!-- <center><a href="//www.dmca.com/Protection/Status.aspx?ID=bc1a300f-6c0f-4dfb-8307-4a8eea567d99" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-07.png?ID=bc1a300f-6c0f-4dfb-8307-4a8eea567d99"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></center><br> -->
     <!-- END DMCA -->
 
-    {{- if .Site.Copyright }}
-    <span>{{ .Site.Copyright | markdownify }}</span>
+    {{- if site.Copyright }}
+    <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
-    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a></span>
+    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
     {{- end }}
     <span>
         Powered by
@@ -18,7 +18,7 @@
 </footer>
 {{- end }}
 
-{{- if (not .Site.Params.disableScrollToTop) }}
+{{- if (not site.Params.disableScrollToTop) }}
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -58,7 +58,7 @@
 
 </script>
 
-{{- if (not .Site.Params.disableScrollToTop) }}
+{{- if (not site.Params.disableScrollToTop) }}
 <script>
     var mybutton = document.getElementById("top-link");
     window.onscroll = function () {
@@ -74,7 +74,7 @@
 </script>
 {{- end }}
 
-{{- if (not .Site.Params.disableThemeToggle) }}
+{{- if (not site.Params.disableThemeToggle) }}
 <script>
     document.getElementById("theme-toggle").addEventListener("click", () => {
         if (document.body.className.includes("dark")) {
