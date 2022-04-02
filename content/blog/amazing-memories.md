@@ -35,20 +35,20 @@ cover:
 
 Kata-kata di atas adalah status yang gue tulis di twitter Desember lalu, biarpun sebenarnya gue *ngeganti* kata kenangannya jadi *genangan*.
 
-Ada banyak sekali kenangan yang gue miliki, entah itu membuat gue terluka ataupun membuat gue tertawa, jika diingat-ingat kembali, semua itu membuat hidup terasa sangat berwarna, apalagi ketika ingat beberapa momen gila bersama teman dekat.
+Ada banyak sekali kenangan yang gue miliki, entah itu membuat gue terluka ataupun tertawa, jika diingat-ingat kembali, semua itu membuat hidup terasa sangat berwarna, apalagi ketika ingat beberapa momen gila bersama teman dekat.
 
-Dan karena itu juga akhirnya gue memutuskan buat nulis itu semua di sini, dan juga sedikit dorongan dari salah satu teman gila yang minta gue untuk nulis juga.
+Dan karena itu juga akhirnya gue memutuskan buat nulis sedikit kisah itu di sini, dan juga sedikit dorongan dari salah satu teman gila yang minta gue untuk nulis juga.
 
-Ketika masa sekolah dulu, gue memiliki beberapa teman yang bisa dibilang aneh kelakuannya, mereka adalah orang-orang yang membuat masa sekolah gue enggak membosankan, momen-momen konyol yang kami lewati berhasil menggantikan kesedihan-kesedihan yang gue alami.
+Ketika masa sekolah dulu, gue memiliki beberapa teman yang bisa dibilang aneh kelakuannya, mereka adalah orang-orang yang *ngebuat* masa sekolah gue nggak membosankan, momen-momen konyol yang kami lewati berhasil menggantikan kesedihan-kesedihan yang gue alami.
 
-Seperti halnya ketika kita sedang berbincang di kantin sekolah, salah satu teman gue lagi asik sama wafernya, dan mereka mulai melakukan hal konyolnya dengan memakan satu wafer itu secara bersamaan, dan dengan sengaja gue mendorong salah satu dari mereka hingga terjadilah ciuman manis diantara kedua lelaki macho ini.
+Seperti halnya ketika kami sedang berbincang di kantin sekolah, salah satu teman gue lagi asik sama wafernya, dan mereka mulai melakukan hal konyolnya dengan memakan satu wafer itu untuk dua mulut bersamaan, dan dengan sengaja gue mendorong salah satu dari mereka hingga terjadilah ciuman manis diantara kedua lelaki macho ini.
 
-Atau ketika gue sedang lagi enggak bisa masuk sekolah dalam waktu yang cukup lama karena gue harus menjaga nenek yang emang lagi sakit, mereka dengan polos dan lugunya membuat satu video singkat sambil berkata, *"Iyan, halo yan, itu elu yan, woi yann.."* dan blablabla sambil meminta gue untuk cepat kembali bersekolah lagi, kalau lo penasaran mungkin video itu mirip dengan film Teletubbies, ketika Tinky Winky, Dipsy, Lala, dan Po naik ke atas bukit lalu salah satu dari mereka memutar video dari perutnya, ketika itu akan ada anak kecil yang mengucapkan salam lalu menceritakan kesehariannya, seperti itulah videonya, namun lebih singkat dan terlihat memalukan. **Tapi buat gue pribadi, video itu sangat-sangat berkesan.**
+Atau ketika gue sedang lagi nggak bisa masuk sekolah dalam waktu yang cukup lama karena harus jaga nenek gue yang lagi sakit, mereka dengan polos dan lugunya membuat satu video singkat sambil berkata, *"Iyan, halo yan, itu elu yan, woi yann.."* dan blablabla sambil meminta gue untuk cepat kembali bersekolah lagi, kalau lo penasaran mungkin video itu mirip dengan film Teletubbies, ketika Tinky Winky, Dipsy, Lala, dan Po naik ke atas bukit lalu salah satu dari mereka memutar video dari perutnya, setelah itu akan ada anak kecil yang mengucapkan salam lalu menceritakan kesehariannya, seperti itulah videonya, namun lebih singkat dan terlihat memalukan. **Tapi buat gue pribadi, video itu sangat-sangat berkesan.**
 
 Ada banyak momen lain yang membuat hidup gue jauh lebih berwarna, dan mereka adalah salah satu orang yang mempunyai peran penting di kehidupan gue ini.
 
-Seberapa banyak pun air mata yang menghantui, selalu ada orang yang akan dengan sengaja memberikan waktunya untuk membuat gue tertawa. Seperti itulah yang gue rasakan. Gue yakin begitu pun dengan lo. Kalo lo enggak ngerasain hal itu, cobalah untuk membuka mata lebih lebar, dunia masih terlalu luas untuk lo lihat.
+Seberapa banyak pun air mata yang menghantui, selalu ada orang yang akan dengan sengaja memberikan waktunya untuk membuat gue tertawa. Seperti itulah yang gue rasakan. Gue yakin begitu pun dengan lo. Kalo lo nggak ngerasain hal itu, cobalah untuk membuka mata lebih lebar, dunia masih terlalu luas untuk lo lihat.
 
-Mempunyai teman dekat yang *kelihatan* bodoh dan konyol enggak pernah membuat gue malu dekat dengan mereka, justru karena adanya mereka, di masa depan nanti gue sudah mempunyai kenangan luar biasa yang tak akan pernah bisa gue lupa.
+Mempunyai teman dekat yang *kelihatan* bodoh dan konyol nggak pernah membuat gue malu dekat dengan mereka, justru karena adanya mereka, di masa depan nanti gue sudah mempunyai kenangan luar biasa yang tak akan pernah bisa gue lupa.
 
 ### Good friends are like stars. You don't always see them, but you know they're always there. –Unknown
