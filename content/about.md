@@ -3,7 +3,7 @@ title: "About"
 date: 2021-10-06T11:15:36+07:00
 draft: false
 # weight: 1
-aliases: ["/tentang"]
+aliases: ["/tentang", "contact", "kontak"]
 author: "Iyan Sanjaya"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -43,4 +43,4 @@ Gue juga mempelajari dunia website lebih dari 5 tahun, dan 4 tahun mengembangkan
 
 Itu adalah sekilas tentang pekerjaan gue. Semoga perkenalan singkat dan satu arah ini bisa mewakili profile yang gue punya.
 
-Kalau lo tertarik untuk ngehubungin gue tentang bisnis atau kerjaan, email gue dengan cara **[klik link ini](mailto:iyansanjaya1@gmail.com)** yak. Thank you.
+Kalau lo tertarik untuk *ngehubungin* gue tentang bisnis atau kerjaan, email gue dengan cara **[klik link ini](mailto:iyansanjaya1@gmail.com)**. Thank you.
