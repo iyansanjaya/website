@@ -3,7 +3,7 @@ title: "Diary Depresiku"
 date: 2018-06-07T12:01:44+07:00
 draft: false
 # weight: 1
-tags: ["self-help", "artikel", "Konten Eksklusif"]
+tags: ["self-help", "artikel", "『 ❖ Konten Eksklusif ❖ 』"]
 author: "Iyan Sanjaya"
 # author: ["Me", "You"] # multiple authors
 showToc: false

@@ -96,8 +96,8 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi! \U0001F44B"
-        Content: Selamat datang! Website ini seperti buku digital pribadi, atau bisa juga disebut blog. Setiap tulisan yang sudah gue buat dan akan gue buat berada di sini. Lo bisa berkomentar di setiap postnya. Enggak juga gapapa sih.
+        Title: "Hi. Welcome! \U0001F44B"
+        Content: Website ini seperti buku digital pribadi, atau bisa juga disebut blog. Setiap tulisan yang sudah gue buat dan akan gue buat berada di sini. Lo bisa berkomentar di setiap postnya. Nggak juga gapapa sih. Social media gue di bawah tulisan ini.
 
     socialIcons:
         - name: instagram
@@ -145,13 +145,13 @@ menu:
           name: Home
           url: /
           weight: 10
-        - identifier: archive
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: Archive
           name: Archive
           url: /arch/
-          weight: 20
-        - identifier: konten-eksklusif
-          name: Eksklusif
-          url: /tags/konten-eksklusif/
           weight: 30
         # - identifier: portofolio
         #   name: Portofolio

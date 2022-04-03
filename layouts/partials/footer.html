@@ -1,20 +1,28 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
 
-    <!-- DMCA -->
-    <!-- <center><a href="//www.dmca.com/Protection/Status.aspx?ID=bc1a300f-6c0f-4dfb-8307-4a8eea567d99" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-07.png?ID=bc1a300f-6c0f-4dfb-8307-4a8eea567d99"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></center><br> -->
-    <!-- END DMCA -->
+    <!-- CUSTOM -->
+        <!-- DMCA -->
+        <!-- <center><a href="//www.dmca.com/Protection/Status.aspx?ID=bc1a300f-6c0f-4dfb-8307-4a8eea567d99" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-07.png?ID=bc1a300f-6c0f-4dfb-8307-4a8eea567d99"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></center><br> -->
+        <!-- END DMCA -->
+
+        All rights reserved
+    <!-- END CUSTOM -->
 
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
     <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
     {{- end }}
-    <span>
+
+    
+    <!-- <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
-    </span>
+    </span> -->
+    
+
 </footer>
 {{- end }}
 
