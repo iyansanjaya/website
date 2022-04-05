@@ -37,7 +37,7 @@ Hi yang di sana! 👋
 
 Senang rasanya bisa berkenalan dengan banyak orang, walaupun sebenarnya gue introvert 😆 Tapi tidak apa, karena bukan berarti gue anti-sosial.
 
-Gue adalah seorang `Graphic Designer`, `Front-End Web Developer`, `Penulis` & `Video Editor`. Gue pernah bekerja selama 3 tahun menjadi Graphic Designer & Video Editor di salah satu gereja di pusat kota Tangerang, dan saat ini sedang bekerja menjadi Senior Designer Graphic untuk salah satu perusahaan di Jakarta Selatan.
+Gue adalah seorang `Graphic Designer`, `Front-End Web Developer`, `Penulis` & `Video Editor`. Gue pernah bekerja selama 3 tahun menjadi Graphic Designer & Video Editor di salah satu gereja di pusat kota Tangerang, dan saat ini sedang bekerja menjadi Senior Graphic Designer untuk salah satu perusahaan di Jakarta Selatan.
 
 Gue juga mempelajari dunia website lebih dari 5 tahun, dan 4 tahun mengembangkan diri untuk menjadi penulis. Dan gue sendiri memiliki website e-commerce [Poronesia.com](https://poronesia.com) yang menjual game-game original dan produk digital yang sudah terpercaya sejak tahun 2018 gue memulainya.
 
