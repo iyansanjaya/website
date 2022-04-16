@@ -31,6 +31,8 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
+{{< song/simple-plan-welcome-to-my-life >}}
+
 Lo pernah nonton film yang berjudul **The Greatest Showman**? Film yang sangat bagus menurut gue, banyak sekali pelajaran yang bisa kita petik dari film itu, salah satunya adalah **keberanian**.
 
 Barnum sang tokoh utama memperlihatkan kepada kita betapa bergairahnya dia dengan cita-cita dan impian yang dia punya. Walau banyak sekali rintangan dan cobaan yang dia hadapi, akan tetapi gairah dan keberaniannya mengalahkan semua yang menghalangi langkahnya. Walaupun dia sempat melakukan kesalahan, bahkan jatuh di titik di mana dia benar-benar nggak memiliki apapun. Tapi perjuangan, keberanian, dan dukungan dari orang-orang terdekatnya membuat dia bangkit dan mengubah cara pandang hidupnya.

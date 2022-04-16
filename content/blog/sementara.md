@@ -31,6 +31,8 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
+{{< song/simple-plan-welcome-to-my-life >}}
+
 Malam kemarin teman gue yang terkenal dengan ketenangannya, yang cukup pintar dengan dirinya, tiba-tiba membuat status di salah satu akun sosial medianya dengan menggunakan timer auto delete.
 
 Di dalam tulisannya cukup mengagetkan gue karena enggak biasanya dia membuat status dengan nada kecewa, bukan berarti gue menganggap dia enggak pernah kecewa, tapi itu cukup membuat gue menyadari sesuatu, dan seperti inilah statusnya:

@@ -31,6 +31,8 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
+{{< song/simple-plan-welcome-to-my-life >}}
+
 Hai, bagaimana kabarmu akhir-akhir ini? Apa kamu kelelahan? Apa kamu sudah tidur? Sudah minum air? Sudah makan? Aku tahu kamu tidak bisa menjawabku sekarang dan aku tidak tahu bagaimana keadaanmu saat ini, tapi aku hanya ingin mampir dan memberi tahu bahwa aku sangat bangga padamu.
 
 Kamu tidak selalu harus mencapai sesuatu yang besar untuk merasa bangga dengan diri sendiri. Kamu bisa bangga dengan hal-hal yang telah kamu lakukan hari ini, seperti bangun dari tempat tidur untuk memulai hari baru, menyelesaikan lebih banyak pekerjaan atau belajar bagaimana menyelesaikan sesuatu, berjalan lebih banyak dari kemarin atau mengambil langkah keluar dari zona nyamanmu, mengambil sampah di trotoar atau mengambil diri dari sesuatu yang membuatmu terlempar.

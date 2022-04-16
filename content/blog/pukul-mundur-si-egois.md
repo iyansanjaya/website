@@ -31,6 +31,8 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
+{{< song/simple-plan-welcome-to-my-life >}}
+
 Pernahkah lo merasakan sesuatu yang begitu indah? Seperti perasaan berbunga-bunga ketika mendapatkan hati si pujaan hati? Atau merasakan bagaimana senangnya mendapatkan kabar kalau lo telah menjadi pegawai tetap dan gaji lo naik sampai 10 juta karena prestasi lo di tempat kerja?
 
 Sepertinya gue ragu lo pernah merasakan hal itu.

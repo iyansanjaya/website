@@ -31,6 +31,8 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
+{{< song/simple-plan-welcome-to-my-life >}}
+
 **Neil Gaiman** pernah berkata begini, _"Saya berharap bahwa di tahun yang akan datang ini, Anda membuat kesalahan. Karena jika Anda membuat kesalahan, maka Anda membuat hal-hal baru, mencoba hal-hal baru, belajar, **hidup**, mendorong diri sendiri, mengubah dunia Anda. Anda melakukan hal-hal yang belum pernah Anda lakukan sebelumnya, dan yang lebih penting, Anda melakukan sesuatu."_
 
 Kalo kalian ingin mengenal gue lebih dekat, gue adalah orang yang cukup bodoh dalam beberapa hal, atau mungkin cukup banyak. Jika gue tarik garis dari awal terciptanya gue sampai sekarang, gue melihat banyak sekali ketakutan yang datang secara terang-terangan, dan jenis-jenisnya pun sangat beragam, seperti takut dengan kegelapan, ataupun takut akan datangnya hari dimana gue kehilangan banyak hal.

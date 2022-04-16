@@ -31,6 +31,8 @@ editPost:
     Text: "Konten Eksklusif" # edit text
     appendFilePath: false # to append file path to Edit link
 ---
+{{< song/simple-plan-welcome-to-my-life >}}
+
 Diary Depresiku adalah sebuah lagu yang dinyanyikan oleh Last Child. Lagu yang memiliki perasaan luar biasa bagi orang-orang yang mengalami luka terdalam. Perceraian.
 
 Mendegar bait pertama lagu ini membuat tubuh saya lemas, ketika sampai di reff saya menangis. Mungkin bagi sebagian orang lagu ini tidak terlalu menarik, tapi lain cerita ketika Anda adalah korban dari perceraian itu sendiri.

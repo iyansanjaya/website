@@ -31,6 +31,8 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
+{{< song/simple-plan-welcome-to-my-life >}}
+
 > *Kenangan. Jika kita mengingatnya kembali, akan terasa menyakitkan dan terkadang membahagiakan.*
 
 Kata-kata di atas adalah status yang gue tulis di twitter Desember lalu, biarpun sebenarnya gue *ngeganti* kata kenangannya jadi *genangan*.

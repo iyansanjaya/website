@@ -31,6 +31,8 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
+{{< song/simple-plan-welcome-to-my-life >}}
+
 Untuk siapapun yang membaca ini. Aku berharap kamu mendapatkan kehidupan yang terbaik yang pernah kamu bayangkan. Aku berharap tahun ini akan baik untukmu. Aku tahu kamu telah berjuang. Aku tahu hal-hal sulit yang kamu alami. Aku sangat mengerti hal itu. Tapi jangan menyerah. Kamu adalah manusia yang luar biasa. Kamu cantik di dalam dan di luar. Jangan dengarkan orang-orang yang ingin menjatuhkan dirimu. Orang-orang egois yang ingin mencuri cahaya darimu.
 
 Jangan biarkan siapa pun mengatakan bahwa kamu tidak cukup. Kamu berharga bagi dunia ini. Kamu spesial. Tak tergantikan. Hargai hidupmu dan orang-orang di sekitar yang mencintai kamu. Bahkan jika kamu berpikir bahwa kamu sendirian sekarang.

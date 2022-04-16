@@ -31,6 +31,8 @@ cover:
     #Text: "Back to Home" # edit text
     #appendFilePath: false # to append file path to Edit link
 ---
+{{< song/simple-plan-welcome-to-my-life >}}
+
 Hai, bagaimana keadaanmu saat ini? Semoga kamu baik-baik saja, ya. Tapi jika kamu merasa sedang berduka, aku ingin menemanimu di sini. Aku ingin mengajakmu untuk melihat ke belakang, melihat sudah sejauh mana kamu berjalan. Kamu sudah melewati banyak sekali hambatan yang membuatmu tersendat dalam lubang hidupmu. Aku tahu kamu berkali-kali jatuh, aku tahu kamu berkali-kali menahan rasa sakit, aku juga tahu kamu berkali-kali menangis. Tapi aku tahu kamu masih bertahan. Kamu masih berdiri dengan kedua kakimu.
 
 Terkadang harapan-harapan yang kita miliki tidak pernah bisa kita raih, bahkan kita kehilangan banyak hal. Dan mungkin tanpa disadari kita ingin mengakhiri perjalanan yang sudah kita perjuangkan. Aku tahu bagaimana rasanya tidak bisa melalukan segala sesuatu. Ada banyak orang kita lihat mereka begitu nyaman dengan kehidupan mereka, tanpa kita sadari, ada banyak orang juga melihat kita dengan pandangan yang sama.
