@@ -1,35 +1,39 @@
 p {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 h1 {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 h2 {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 h3 {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 h4 {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 h5 {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 h6 {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Rubik', sans-serif;
+}
+
+button {
+  font-family: 'Rubik', sans-serif;
 }
 
 /* EKSLUSIF CONTENT */
 .eksklusif {
   color: #3b96ff;
-}
+} 
 
 .badge-eks {
   border-radius: 4px;
@@ -109,7 +113,7 @@ Dari tema PaperMod.
   color: #fff;
   cursor: pointer;
   display: inherit;
-  font-family: "Space Grotesk",-apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-family: 'Rubik', sans-serif;
   font-size: 17px;
   font-weight: 700;
   line-height: 24px;
