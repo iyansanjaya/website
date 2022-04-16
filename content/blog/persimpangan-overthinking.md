@@ -64,3 +64,4 @@ Siapa yang perlu dimaafkan? Diri lo dan orang lain. Ketika kita *overthinking* k
 Sekali lagi bahwa masukan dan pendapat gue enggaklah sempurna, karena memang setiap orang memiliki sifat yang berbeda-beda. Kalau memang kita enggak menemukan jawaban yang tepat, ada baiknya kita konsultasi dengan mentor atau psikolog.
 
 Sehat selalu.
+{{ song/simple-plan-welcome-to-my-life }}
