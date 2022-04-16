@@ -31,6 +31,8 @@ cover:
 #     Text: "Konten Eksklusif" # edit text
 #     appendFilePath: false # to append file path to Edit link
 ---
+{{< song/simple-plan-welcome-to-my-life >}}
+
 Di dalam perjalanan kehidupan yang cukup singkat ini, kita semua selalu diperhadapkan dengan berbagai macam tantangan, dan enggak jarang kita akan terdiam dengan pikiran yang begitu berantakan, gue biasa menyebutkan kondisi ini sebagai—berada di sebuah *persimpangan*. Gue bukanlah orang pertama yang mencetuskan kalimat ini, gue juga enggak tahu siapa orang pertama yang menyebutkan kondisi itu dengan kalimat tersebut, tapi gue setuju dengan kata *persimpangan* yang dia ucapkan.
 
 Mari lupakan sejenak tentang pencetusnya, lalu apa arti dari kata *persimpangan* ini?
@@ -64,4 +66,3 @@ Siapa yang perlu dimaafkan? Diri lo dan orang lain. Ketika kita *overthinking* k
 Sekali lagi bahwa masukan dan pendapat gue enggaklah sempurna, karena memang setiap orang memiliki sifat yang berbeda-beda. Kalau memang kita enggak menemukan jawaban yang tepat, ada baiknya kita konsultasi dengan mentor atau psikolog.
 
 Sehat selalu.
-{{ song/simple-plan-welcome-to-my-life }}
