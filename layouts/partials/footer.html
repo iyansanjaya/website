@@ -1,28 +1,20 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
 
-    <!-- CUSTOM -->
-        <!-- DMCA -->
-        <!-- <center><a href="//www.dmca.com/Protection/Status.aspx?ID=bc1a300f-6c0f-4dfb-8307-4a8eea567d99" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-07.png?ID=bc1a300f-6c0f-4dfb-8307-4a8eea567d99"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></center><br> -->
-        <!-- END DMCA -->
-
-        All rights reserved
-    <!-- END CUSTOM -->
+    <!-- CUSTOM HERE -->
+    All rights reserved
+    <!-- CUSTOM END -->
 
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
     <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
     {{- end }}
-
-    
     <!-- <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
     </span> -->
-    
-
 </footer>
 {{- end }}
 
@@ -35,36 +27,6 @@
 {{- end }}
 
 {{- partial "extend_footer.html" . }}
-
-<!-- MODAL -->
-<script>
-// Get the modal
-var modal = document.getElementById("myModal");
-
-// Get the button that opens the modal
-var btn = document.getElementById("myBtn");
-
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
-
-// When the user clicks the button, open the modal 
-btn.onclick = function() {
-  modal.style.display = "block";
-}
-
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
-}
-
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-</script>
-<!-- END MODAL -->
 
 <script>
     let menu = document.getElementById('menu')
