@@ -58,7 +58,7 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: false
     disableSpecial1stPost: false
-    disableScrollToTop: false
+    disableScrollToTop: true
     comments: true
     hidemeta: false
     hideSummary: false
@@ -99,17 +99,15 @@ params:
         Title: "Welcome! \U0001F44B"
         Content: Website ini seperti buku digital pribadi, atau bisa juga disebut blog. Setiap tulisan yang sudah gue buat dan akan gue buat berada di sini. Lo bisa berkomentar di setiap postnya. Nggak juga gapapa sih. Social media gue di bawah tulisan ini.
 
-    socialIcons:
-        - name: instagram
-          url: "https://instagram.com/iyannsanjaya"
-        - name: twitter
-          url: "https://twitter.com/iyannsanjaya"
-        - name: steam
-          url: "https://steamcommunity.com/id/iyansanjaya"
-        - name: linkedin
-          url: "https://id.linkedin.com/in/iyansanjaya"
-        - name: other
-          url: "https://rarible.com/insamaru"
+    # socialIcons:
+    #     - name: instagram
+    #       url: "https://instagram.com/iyannsanjaya"
+    #     - name: twitter
+    #       url: "https://twitter.com/iyannsanjaya"
+    #     - name: steam
+    #       url: "https://steamcommunity.com/id/iyansanjaya"
+    #     - name: linkedin
+    #       url: "https://id.linkedin.com/in/iyansanjaya"
 
     # analytics:
     #     google:
@@ -157,18 +155,14 @@ menu:
         #   name: Portofolio
         #   url: /porto/
         #   weight: 40
-        - identifier: nfts
-          name: NFTs
-          url: https://rarible.com/insamaru
-          weight: 40
         - identifier: about
           name: About
           url: /about/
-          weight: 50
+          weight: 40
         - identifier: search
           name: Search
           url: /search/
-          weight: 60
+          weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
