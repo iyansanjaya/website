@@ -333,7 +333,7 @@ Dari tema PaperMod.
   display: flex;
   align-items: center;
   flex-direction: row;
-  border-bottom: 1px solid #EEEEEE;
+  border-bottom: 1px solid #dddddd;
   padding: 20px;
   box-sizing: border-box;
 }
@@ -341,7 +341,7 @@ Dari tema PaperMod.
   width: 60px;
   max-width: 60px;
   min-width: 60px;
-  border: 1px solid #EEEEEE;
+  border: 1px solid #dddddd;
   border-radius: 100%;
   margin: 0 20px 0 0;
   padding: 4px;
@@ -373,11 +373,11 @@ Dari tema PaperMod.
 .at-floating-navigation__button {
   pointer-events: auto;
   outline: none;
-  background: #fdfdfd;
+  background: #dadadb;
   color: #1d1e20;
   width: 40px;
   height: 40px;
-  border: 1px solid #fdfdfd;
+  border: 1px solid #dadadb;
   border-radius: 100%;
   font-size: 20px;
   font-weight: 600;
@@ -389,7 +389,7 @@ Dari tema PaperMod.
   position: absolute;
   right: 0;
   bottom: 100%;
-  background: #fdfdfd;
+  background: #eeeeee;
   width: 240px;
   border: 1px solid #EEEEEE;
   border-radius: 2px;
@@ -402,11 +402,11 @@ Dari tema PaperMod.
   display: block;
   width: 100%;
   height: 40px;
-  border-bottom: 1px solid #EEEEEE;
+  border-bottom: 1px solid #dddddd;
   padding: 0 20px;
   box-sizing: border-box;
   text-decoration: none;
-  color: #444444;
+  color: #1d1e20;
   font-size: 12px;
   font-weight: 600;
   line-height: 40px;
