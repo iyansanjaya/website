@@ -97,8 +97,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Welcome! \U0001F44B"
-        Content: Website ini seperti buku digital pribadi, atau bisa juga disebut blog. Setiap tulisan yang sudah gue buat dan akan gue buat berada di sini. Lo bisa berkomentar di setiap postnya. Nggak juga gapapa sih. Social media gue di bawah tulisan ini.
-
+        Content: Website ini seperti buku digital pribadi, atau bisa juga disebut blog. Setiap tulisan yang sudah gue buat dan akan gue buat berada di sini. Lo bisa berkomentar di setiap postnya. Nggak juga gapapa sih. Selamat membaca.
     # socialIcons:
     #     - name: instagram
     #       url: "https://instagram.com/iyannsanjaya"
@@ -155,14 +154,18 @@ menu:
         #   name: Portofolio
         #   url: /porto/
         #   weight: 40
+        - identifier: portofolio
+          name: Portofolio
+          url: https://contra.com/iyansanjaya
+          weight: 40
         - identifier: about
           name: About
           url: /about/
-          weight: 40
+          weight: 50
         - identifier: search
           name: Search
           url: /search/
-          weight: 50
+          weight: 60
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
