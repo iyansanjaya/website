@@ -45,7 +45,7 @@ Dan lagi, hari ini gua kembali mengalami ketakutan itu, sampai-sampai gua dengan
 
 Salah satu teman gua pernah minta gua untuk menuliskan kisah cinta di sini, namun gua bukan orang yang pandai dalam hal percintaan, gua nggak seperti Boy Candra yang sangat pintar di bidang ini.
 
-Kata-kata yang diungkapkan Neil Gaiman di atas membuat gua berfikir ulang, gua menyadari sesuatu ketika kesalahan pengambilan keputusan yang sudah gua lakukan membuat gua tertekan, kini gua malah belajar tentang hidup, bukan berarti gua terbebas dari tekanannya, tekanan itu terus gua rasakan, namun lebih dari apapun, gua terus mendorong diri untuk berkata, *"Lo pernah melewati hal yang lebih dari ini, harusnya lo bisa melewati ini dengan cara yang lo punya, dengan kekuatan Tuhan lo."* tanpa gua sadari, gua lagi-lagi memotivasi diri sendiri.
+Kata-kata yang diungkapkan Neil Gaiman di atas membuat gua berfikir ulang, gua menyadari sesuatu ketika kesalahan pengambilan keputusan yang sudah gua lakukan membuat gua tertekan, kini gua malah belajar tentang hidup, bukan berarti gua terbebas dari tekanannya, tekanan itu terus gua rasakan, namun lebih dari apapun, gua terus mendorong diri untuk berkata, *"Kamu pernah melewati hal yang lebih dari ini, harusnya kamu bisa melewati ini dengan cara yang kamu punya, dengan kekuatan Tuhan kamu."* tanpa gua sadari, gua lagi-lagi memotivasi diri sendiri.
 
 Dan seperti ungkapan Neil Gaiman tadi, dengan begini gua *melakukan sesuatu*, itu penting buat diri gua.
 

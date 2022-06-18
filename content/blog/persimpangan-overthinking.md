@@ -37,7 +37,7 @@ Di dalam perjalanan kehidupan yang cukup singkat ini, kita semua selalu diperhad
 
 Mari lupakan sejenak tentang pencetusnya, lalu apa arti dari kata *persimpangan* ini?
 
-Ketika gua sedang menulis tulisan ini, gua sedang berada di sebuah *persimpangan*. Bukan! Bukan persimpangan jalan yang saat ini lo sedang pikirkan, tapi gua sedang berada dalam suatu kondisi di mana gua sedang terdiam dan enggak tahu harus belok ke arah mana di dalam perjalanan kehidupan gua. Kondisi seperti ini sangat sering terjadi, dan tentunya bukan hanya kepada gua seorang.
+Ketika gua sedang menulis tulisan ini, gua sedang berada di sebuah *persimpangan*. Bukan! Bukan persimpangan jalan yang saat ini kamu sedang pikirkan, tapi gua sedang berada dalam suatu kondisi di mana gua sedang terdiam dan enggak tahu harus belok ke arah mana di dalam perjalanan kehidupan gua. Kondisi seperti ini sangat sering terjadi, dan tentunya bukan hanya kepada gua seorang.
 
 Ketika sadang berada di dalam sebuah *persimpangan*, hampir enggak mungkin kita enggak mengalami *overthinking*. Kita akan mencoba untuk meramal dan meraba-raba masa depan. Kondisi inilah yang membuat banyak dari kita akan “tersandung” dan “berdarah”. Bahkan enggak jarang juga kita akan mengalami *gesekan* dengan orang-orang terdekat.
 
@@ -57,11 +57,11 @@ Biasanya gua akan mencoba terbuka dengan diri sendiri, berkata kepada diri sendi
 
 ### Ketika kita terpicu dengan amarah.
 
-Sebaiknya jangan mengambil keputusan dengan cepat, gua menyarankan untuk menahan mulut lo untuk enggak mengeluarkan kata-kata. Ini memang bukan perkara mudah, karena amarah biasanya membuat kita ingin melampiaskan perasaan kita melalui kalimat-kalimat yang menyakitkan, percayalah itu enggak akan menyelesaikan apapun.
+Sebaiknya jangan mengambil keputusan dengan cepat, gua menyarankan untuk menahan mulut kamu untuk enggak mengeluarkan kata-kata. Ini memang bukan perkara mudah, karena amarah biasanya membuat kita ingin melampiaskan perasaan kita melalui kalimat-kalimat yang menyakitkan, percayalah itu enggak akan menyelesaikan apapun.
 
 ### Meminta maaf & memaafkan.
 
-Siapa yang perlu dimaafkan? Diri lo dan orang lain. Ketika kita *overthinking* karena hubungan kepada sesama, seperti teman, keluarga, ataupun pasangan, sebaiknya lo belajar untuk memaafkan dan meminta maaf lebih dulu. Belajarlah untuk meminta maaf pada diri sendiri yang terlalu memikirkan hal-hal yang belum tentu terjadi, dan memaafkan mereka lebih dulu walau keadaan buruk belum terjadi.
+Siapa yang perlu dimaafkan? Diri kamu dan orang lain. Ketika kita *overthinking* karena hubungan kepada sesama, seperti teman, keluarga, ataupun pasangan, sebaiknya kamu belajar untuk memaafkan dan meminta maaf lebih dulu. Belajarlah untuk meminta maaf pada diri sendiri yang terlalu memikirkan hal-hal yang belum tentu terjadi, dan memaafkan mereka lebih dulu walau keadaan buruk belum terjadi.
 
 Sekali lagi bahwa masukan dan pendapat gua enggaklah sempurna, karena memang setiap orang memiliki sifat yang berbeda-beda. Kalau memang kita enggak menemukan jawaban yang tepat, ada baiknya kita konsultasi dengan mentor atau psikolog.
 

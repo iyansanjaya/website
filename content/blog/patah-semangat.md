@@ -33,7 +33,7 @@ cover:
 ---
 {{< song/simple-plan-welcome-to-my-life >}}
 
-Setiap kita pasti pernah mengalaminya, entah karena pekerjaan, studi, pasangan hidup ataupun lain sebagainya. Itu merupakan sesuatu yang normal karena kita manusia sangat terbatas. Namun apakah itu menjadi halangan untuk kita terus melangkah menjalani hidup? Tentu saja jawabannya enggak, dan gua yakin lo pun tahu akan hal itu.
+Setiap kita pasti pernah mengalaminya, entah karena pekerjaan, studi, pasangan hidup ataupun lain sebagainya. Itu merupakan sesuatu yang normal karena kita manusia sangat terbatas. Namun apakah itu menjadi halangan untuk kita terus melangkah menjalani hidup? Tentu saja jawabannya enggak, dan gua yakin kamu pun tahu akan hal itu.
 
 Banyak orang di luar sana ketika mengalami hal ini memilih untuk mengakhiri hidupnya, karena dampak ketika kita patah semangat bisa sangat-sangat menentukan aktivitas kita bahkan masa depan kita. Bisa jadi, ketika kita mengalami hal ini kita bisa merasa lelah, jenuh, enggak ada yang spesial, malas melakukan sesuatu, kecewa, memandang kehidupan ini abu-abu, depresi dan lain sebagainya.
 
