@@ -33,23 +33,23 @@ cover:
 ---
 {{< song/simple-plan-welcome-to-my-life >}}
 
-Malam kemarin teman gue yang terkenal dengan ketenangannya, yang cukup pintar dengan dirinya, tiba-tiba membuat status di salah satu akun sosial medianya dengan menggunakan timer auto delete.
+Malam kemarin teman gua yang terkenal dengan ketenangannya, yang cukup pintar dengan dirinya, tiba-tiba membuat status di salah satu akun sosial medianya dengan menggunakan timer auto delete.
 
-Di dalam tulisannya cukup mengagetkan gue karena enggak biasanya dia membuat status dengan nada kecewa, bukan berarti gue menganggap dia enggak pernah kecewa, tapi itu cukup membuat gue menyadari sesuatu, dan seperti inilah statusnya:
+Di dalam tulisannya cukup mengagetkan gua karena enggak biasanya dia membuat status dengan nada kecewa, bukan berarti gua menganggap dia enggak pernah kecewa, tapi itu cukup membuat gua menyadari sesuatu, dan seperti inilah statusnya:
 
 > *"Terlalu cepat untuk dikenang, terlalu lama untuk dijalani."*
 
-Mungkin terlihat seperti sebuah quote biasa dan ambigu. Namun akan beda cerita ketika di akhir kalimatnya dia menandai gue, karena gue tahu dia sedang enggak *biasa*, gue lumayan mengenal karakter dan sifatnya, gue tahu dia sedang mengirim pesan kepada gue, namun enggak menggunakan pesan pribadi, melainkan menggunakan pesan yang bisa dibaca oleh *orang lain* selain gue.
+Mungkin terlihat seperti sebuah quote biasa dan ambigu. Namun akan beda cerita ketika di akhir kalimatnya dia menandai gua, karena gua tahu dia sedang enggak *biasa*, gua lumayan mengenal karakter dan sifatnya, gua tahu dia sedang mengirim pesan kepada gua, namun enggak menggunakan pesan pribadi, melainkan menggunakan pesan yang bisa dibaca oleh *orang lain* selain gua.
 
-Gue dengan sangat yakin tahu bahwa ada masalah dengan hubungannya, walaupun gue enggak tahu siapa, dan dari status yang dia buat menyadarkan gue kembali, bahwa sesuatu yang ada di dunia ini hanya sementara. Termasuk sebuah hubungan.
+Gue dengan sangat yakin tahu bahwa ada masalah dengan hubungannya, walaupun gua enggak tahu siapa, dan dari status yang dia buat menyadarkan gua kembali, bahwa sesuatu yang ada di dunia ini hanya sementara. Termasuk sebuah hubungan.
 
-Hari ini, gue mendapatkan kabar yang lumayan mengejutkan juga, di rumah, gue kenal dengan seorang bapak-bapak yang sudah berumur, dia orang yang baik, selalu bermain dengan anak-anak kecil yang berada di dekat rumah, dia tinggal hanya berdua bersama keponakannya, setiap kita bertemu dia selalu bercerita tentang keponakannya itu, yang selalu sakit-sakitan. Dia sangat menyayanginya, walaupun di setiap cerita yang dia sampaikan enggak pernah terucap kata-kata sayang, tapi gue sangat tahu bagaimana perasaanya.
+Hari ini, gua mendapatkan kabar yang lumayan mengejutkan juga, di rumah, gua kenal dengan seorang bapak-bapak yang sudah berumur, dia orang yang baik, selalu bermain dengan anak-anak kecil yang berada di dekat rumah, dia tinggal hanya berdua bersama keponakannya, setiap kita bertemu dia selalu bercerita tentang keponakannya itu, yang selalu sakit-sakitan. Dia sangat menyayanginya, walaupun di setiap cerita yang dia sampaikan enggak pernah terucap kata-kata sayang, tapi gua sangat tahu bagaimana perasaanya.
 
-Gue memang enggak terlalu dekat dengan keponakannya, bahkan enggak pernah berbicara bersama layaknya seorang teman. Gue hanya tahu wajahnya karena dia memang jarang bergaul dengan lingkungan sekitar. Dan siang tadi, bapak itu datang ke tempat gue dengan raut wajah yang sangat berbeda, wajah yang biasanya selalu ceria itu mendadak hilang, dengan nada yang terpatah-patah, dia menyampaikan kabar bahwa keponakannya sudah meninggal, dan disaat yang bersamaan gue merasakan sesuatu menghancurkan hati gue.
+Gue memang enggak terlalu dekat dengan keponakannya, bahkan enggak pernah berbicara bersama layaknya seorang teman. Gue hanya tahu wajahnya karena dia memang jarang bergaul dengan lingkungan sekitar. Dan siang tadi, bapak itu datang ke tempat gua dengan raut wajah yang sangat berbeda, wajah yang biasanya selalu ceria itu mendadak hilang, dengan nada yang terpatah-patah, dia menyampaikan kabar bahwa keponakannya sudah meninggal, dan disaat yang bersamaan gua merasakan sesuatu menghancurkan hati gua.
 
-> Gue jadi teringat dengan seseorang yang membesarkan gue, yang sudah pergi lebih dulu ke tempat yang *jauh lebih nyaman*.
+> Gue jadi teringat dengan seseorang yang membesarkan gua, yang sudah pergi lebih dulu ke tempat yang *jauh lebih nyaman*.
 
-Apa yang kita miliki memang bersifat sementara, itu hanyalah *titipan* yang dipercayakan kepada setiap orang, namun bagaimanapun juga bentuknya, kesementaraan ini membuat gue belajar banyak hal, membentuk diri gue menjadi jauh lebih baik, memang seharusnya demikian, memang seharusnya itu membentuk gue menjadi lebih baik.
+Apa yang kita miliki memang bersifat sementara, itu hanyalah *titipan* yang dipercayakan kepada setiap orang, namun bagaimanapun juga bentuknya, kesementaraan ini membuat gua belajar banyak hal, membentuk diri gua menjadi jauh lebih baik, memang seharusnya demikian, memang seharusnya itu membentuk gua menjadi lebih baik.
 
 Bukan malah menjadi lebih buruk.
 

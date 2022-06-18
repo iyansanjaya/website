@@ -97,7 +97,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Welcome! \U0001F44B"
-        Content: Website ini seperti buku digital pribadi, atau bisa juga disebut blog. Setiap tulisan yang sudah gue buat dan akan gue buat berada di sini. Lo bisa berkomentar di setiap postnya. Nggak juga gapapa sih. Selamat membaca.
+        Content: Website ini seperti buku digital pribadi, atau bisa juga disebut blog. Setiap tulisan yang sudah gua buat dan akan gua buat berada di sini. Lo bisa berkomentar di setiap postnya. Nggak juga gapapa sih. Selamat datang deh pokoknya.
     # socialIcons:
     #     - name: instagram
     #       url: "https://instagram.com/iyannsanjaya"
