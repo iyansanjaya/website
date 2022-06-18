@@ -43,4 +43,4 @@ Gua juga mempelajari dunia website lebih dari 5 tahun, dan 4 tahun mengembangkan
 
 Itu adalah sekilas tentang pekerjaan gua. Semoga perkenalan singkat dan satu arah ini bisa mewakili profile yang gua punya.
 
-Kalau kamu tertarik untuk *ngehubungin* gua tentang bisnis atau kerjaan, email gua lewat tombol di bawah layar kanan kamu.
+Kalau lo tertarik untuk *ngehubungin* gua tentang bisnis atau kerjaan, email gua lewat tombol di bawah layar kanan lo.
