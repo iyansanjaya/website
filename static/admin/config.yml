@@ -34,9 +34,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Show Post Nav Links", name: "ShowPostNavLinks", widget: "boolean", default: true}
       - {label: "Cover Image", name: "cover"}
         - label: "Cover"
-          - {label: "Image", name: "image", widget: "image", required: false}
-          - {label: "Alt Image", name: "alt", widget: "string"}
-          - {label: "Caption Image", name: "caption", widget: "string"}
-          - {label: "Relative", name: "relative", widget: "boolean", default: false}
-          - {label: "Hidden Image", name: "hidden", widget: "boolean", default: false}
+          fields: 
+            - {label: "Image", name: "image", widget: "image", required: false}
+            - {label: "Alt Image", name: "alt", widget: "string"}
+            - {label: "Caption Image", name: "caption", widget: "string"}
+            - {label: "Relative", name: "relative", widget: "boolean", default: false}
+            - {label: "Hidden Image", name: "hidden", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}
