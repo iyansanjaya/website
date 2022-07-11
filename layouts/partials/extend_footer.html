@@ -62,17 +62,3 @@ window.onclick = function(event) {
     });
   </script>
 <!-- Floating Button End -->
-
-<!-- Netlify CMS -->
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
-<!-- End Netlify CMS -->
