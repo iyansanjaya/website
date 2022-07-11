@@ -32,7 +32,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Show Reading Time", name: "ShowReadingTime", widget: "boolean", default: true}
       - {label: "Show Bread Crumbs", name: "ShowBreadCrumbs", widget: "boolean", default: true}
       - {label: "Show Post Nav Links", name: "ShowPostNavLinks", widget: "boolean", default: true}
-      - {label: "Cover Image", name: "cover"}
+      - {label: "Cover Image", name: "cover", widget: "string"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Alt Image", name: "alt", widget: "string"}
       - {label: "Caption Image", name: "caption", widget: "string"}
