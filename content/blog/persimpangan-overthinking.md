@@ -14,7 +14,6 @@ comments: true
 canonicalURL: "/blog/persimpangan-overthinking/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

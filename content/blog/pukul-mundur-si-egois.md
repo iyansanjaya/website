@@ -14,7 +14,6 @@ comments: true
 canonicalURL: "/blog/pukul-mundur-si-egois/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
@@ -23,7 +22,7 @@ ShowPostNavLinks: true
 cover:
     image: "/blog/egoism.jpg" # image path/url
     alt: "Pukul Mundur si “Egois”" # alt text
-    #caption: "(#)" # display caption under cover
+    caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 #editPost:
