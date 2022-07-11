@@ -14,7 +14,6 @@ comments: true
 canonicalURL: "/blog/amazing-memories/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
